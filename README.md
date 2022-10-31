@@ -1,5 +1,9 @@
 # Scraping-proj.
 
+Hello, I'm Nonnor. Chatchai Kraisakul, 2nd floor, SB, responsible for making Github for Scraping group. I will introduce what API is, what is FastAPI or what is Web scraping
+
+สวัสดีครับ ผม นนร.ฉัตรชัย ไกรสกุล ชั้น 2 ตอน ซบ. รับหน้าที่ เป็นคนทำ Github ให้กับกลุ่ม Scraping โดยผมจะมาแนะนำว่า API คืออะไร FastAPI หรือ Web scraping คืออะไร
+
 API
 API stands for Application Programming Interface. How to run the program We have to start from looking at the servers of various service providers as programs first, such as Google's servers that search for information for us as one big program. Facebook's server is a program, a bank server is a programFastAPI is a framework Used for making APIs with Python, a language that many people should be familiar with. The highlight of FastAPI is the speed of work. It's easy to learn and has a built-in API documentation that will help us test it out as we develop it Web scraping is a method of extracting information from different web pages to make use of them as we want
 
