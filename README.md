@@ -14,3 +14,9 @@ FastAPI is a framework for making APIs in Python, a language that many people ar
   * FastAPI : a framework used for making APIs with *Python* , a language that many people are probably familiar with
       
 ## MEMBERS
+  1.Kornthawat Jamfa :video_game:<br>
+  2.Nattapong Yodchusri :guitar: <br>
+  3.Thanawich Kulkiattichai :evergreen_tree:<br> 
+  4.Chatchai Kraisakul :rainbow: <br>
+  5.Thanayut Khrongyut :notes:<br>
+  6.Nitikorn Kongjang :honeybee:<br>
