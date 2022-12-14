@@ -1,3 +1,33 @@
+# Scarping-project :computer::office:
+
+For our *web scarping project*, it's a way to extract information from different web pages to make use of it  *as we want* Web scarping is a method for extracring information from a web page or website. It uses a programing language as a tool (hereinafter Python) to write scripts to extract information from a particular web page. Popular languages such as Scripting Languages such as Python are used. There will be steps to extract(Extract) to remove only the desired data. By storing them in various formats for further use. Usually,the methods for extracting data form Data soruce or Database.
+
+![image](https://www.webharvy.com/images/web%20scraping.png)
+
+#### there are usually two main methods of trtrieving data
+  * Retrieve from API
+  * Web scarping
+
+### website for scarping
+![image](https://propertyhub.in.th/images/logo-large.png)<br>
+<a href="https://propertyhub.in.th/เช่าคอนโด/ถนนสีลม">Link web condo for scarping</a>
+
+### My data soure 
+| name condo |   price  |  url  | 
+| ---------- | -------- | ----- |
+| 1          |          |       |  
+| 2          |          |       |
+| 3          |          |       |    
+
+## API (Application Programming Interface):mailbox::high_brightness:
+API stands for Application Programming Interface. In the context of APIs, the word Application refers to any software with a distinct function. Interface can be thought of as a contract of service between two applications. This contract defines how the two communicate with each other using requests and responses. Their API documentation contains information on how developers are to structure those requests and responses.
+  
+  
+  #### How does API work:question:
+  APIs let your product or service communicate with other products and services without having to know how they’re implemented. This can simplify app development, saving time and money. When you’re designing new tools and products—or managing existing ones—APIs give you flexibility; simplify design, administration, and use; and provide opportunities for innovation.
+
+  ![image](https://miro.medium.com/max/1058/1*pFJDQdzWB4SvonNfO6tM4A.png) ![image](https://learn.g2crowd.com/hubfs/what-is-web-scraping.png)
+
 # Into the database :closed_lock_with_key:
 
 *tools or equipment to make our information into the database* <br>
